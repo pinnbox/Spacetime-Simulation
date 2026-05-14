@@ -1,4 +1,4 @@
-# Spacetime Simulation
+# Special Relativity Simulation
 A 2D representation of hyperbolic spacetime for a 1D universe
 
 Z/X - increase/decrease key press multiplier\
